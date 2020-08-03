@@ -5,3 +5,6 @@
 *&---------------------------------------------------------------------*
 REPORT ZTSH_TEST2.
 Write:/ 'Hello World'.
+Write:/ 'Hello World'.
+Write:/ 'Hello World'.
+Write:/ 'Hello World'.Write:/ 'Hello World'.
